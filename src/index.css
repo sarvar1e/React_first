@@ -23,10 +23,10 @@ code {
 }
 .navbar {
   display: flex;
-  padding: 33px 120px;
+  padding: 20px 120px;
   position: fixed;
   width: 100%;
-
+  background-color: #f4e6c69d;
   z-index: 2000;
 }
 
